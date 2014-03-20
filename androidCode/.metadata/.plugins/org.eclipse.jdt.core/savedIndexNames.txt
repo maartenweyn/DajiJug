@@ -1,2 +1,0 @@
-INDEX VERSION 1.126+C:\Users\Maarten Weyn\Documents\git\DajiJug\androidCode\.metadata\.plugins\org.eclipse.jdt.core
-4079793518.index
