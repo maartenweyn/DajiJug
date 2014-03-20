@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DaliJugControlApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="stopButtonText">Start</string>
+    <string name="connectBTText">Connect</string>
+    <string name="wake">Wake</string>
+    <string name="stopMotion">Stop</string>
+    <string name="motionText">0 / 0</string>
+    <string name="gait">Gait</string>
+    <string name="onroad">On Road</string>
+
+</resources>
